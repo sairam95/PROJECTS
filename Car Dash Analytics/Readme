@@ -1,5 +1,5 @@
 CarDash is a full-service automotive concierge provider that eliminates the hassle of auto service, care, and maintenance. We pick up your car, oversee your service, 
-and advocate on your behalf. Information contains Analysis on the CarDash Customer service Data. 
+and advocate on your behalf. Task is to analyse the Car Dash company Data and provide a set of recommendation to improve their customer service. 
 The dataset consists of the inforation regarding following columns
 
 Column Names: orderid: unique identifier of order 
