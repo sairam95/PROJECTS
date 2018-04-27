@@ -1,0 +1,17 @@
+CarDash is a full-service automotive concierge provider that eliminates the hassle of auto service, care, and maintenance. We pick up your car, oversee your service, 
+and advocate on your behalf. Information contains Analysis on the CarDash Customer service Data. 
+The dataset consists of the inforation regarding following columns
+
+Column Names: orderid: unique identifier of order 
+parentorderid: unique identifier of order that may contain associated children orders c
+ontactcustomerid: unique identifier of customer 
+servicecenterid: unique identifier of service center 
+createdat: timestamp that customer placed the order 
+pickupdate: timestamp that driver picked up the order 
+closingdate: timestamp of vehicle return and order close 
+finalinvoice: final invoice amount to customer 
+tip: customer tip amount 
+promocodediscount: discount value of order 
+grossrevenue: finalinvoice + tip + promocodediscount 
+netrevenue: revenue after deducting: payment to service centers for work, parts costs, corporate discount promo codes, warranty and returns.
+
